@@ -25,7 +25,7 @@ DEBUG = True
 TEMPLATE_DEBUG = True
 
 TEMPLATE_DIRS=(
-    "/Users/LOUISA/project/project/Templates/",
+    "project/Templates/",
 )
 ALLOWED_HOSTS = []
 
