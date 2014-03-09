@@ -1,0 +1,57 @@
+        {% load static %}
+<html>
+<head>
+<title>{% block title %} ESIH_PYTHON {% endblock %}</title>
+<link  rel="stylesheet" type="text/css" media="screen" href="{% static 'css8.css'%}"/>
+<!--<link rel="stylesheet" href="{% static 'css/reset.css'%}"/>
+<link rel="stylesheet" href="{% static 'css/animate.css'%}"/>
+<link rel="stylesheet" href="{% static 'css/styles.css'%}"/>-->
+</head>
+{% block content %}
+<body>
+<div id="container">
+<div id="header">
+
+<form>
+
+            <label for="username">Username:</label><input type="text" id="username" name="username">
+
+            <label for="password">Password:</label> <input type="password" id="password" name="password"><p><a href="#">Forgot your password?</a></p><input type="submit" value="Login">
+
+</form>
+
+
+
+</div>
+
+<div id="milieu">
+
+<div id="mainmenu">
+<ul>
+<li><a href="{% url 'principal.views.Mhome' %}"  title="Aller ala page d'acceuil">Accueil</a></li>
+<li><a href="{% url 'principal.views.qui' %}"  title="Aller ala page d'acceuil">Qui Sommnes-nous </a></li>
+<li><a href="{% url 'principal.views.pedro' %}"  title="Aller ala page d'acceuil">Cours</a></li>
+<li><a href="{% url 'principal.views.balde' %}"  title="Aller ala page d'acceuil">Contact</a></li>
+</ul>
+</div>
+
+
+
+<div id="Accueil"></div>
+<div id="slideshow">
+</div>
+
+    {% block contenu %}
+
+    {%endblock%}
+
+<div id="footer"><p>ESIH@2014</p></div>
+</div>
+    </div>
+
+</body>
+
+
+
+
+{% endblock %}

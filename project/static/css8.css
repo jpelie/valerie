@@ -1,0 +1,118 @@
+{% load staticfiles %}
+body {
+	font: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFF;
+	font-size: 12px
+
+}
+
+
+#container {
+	width: 960px;
+	background: #FFF;
+	margin: auto; 
+}
+
+#header {
+	
+	height:190px;
+	background:#663300;
+	width:960px;
+}
+
+#footer {
+	height:30px;
+	background:#663300;
+	width:960px;
+	margin-top:30px;
+	text-align:center;
+}
+		
+
+#milieu 
+{
+height:580px;
+background:#ddd;
+padding:10px;
+background-image:url(./images/innove.JPG);
+background-repeat:no-repeat;
+
+}
+
+
+#slideshow {
+	height:370px;
+	width:500px;
+	float:right;
+
+	
+}
+
+#rightslide{
+height:370px;
+	background:#0C1D43;
+	width:400px;
+	float:left;
+
+
+}
+
+
+#boxhomeleft{
+	height:100px;
+	background:#C60;
+	width:255px;
+	margin-right:20px
+	
+		
+	
+}
+
+#boxhomeright{
+height:200px;
+background:#F08080;
+width:540px;
+}
+
+#mainmenu a{
+display:block;
+background:#ddd;
+margin-right:5px;
+padding:5px; 
+float:left;
+width:100px;
+text-align:center;
+color:#fff;
+
+}
+
+#mainmenu {
+	height:35px;
+	background:#000;
+	width:960px;
+	margin-bottom:20px;
+	
+		
+}
+
+#mainmenu ul li a {
+display:block;
+background:#ddd;
+margin-right:5px;
+padding-top:10px; 
+float:left;
+width:100px;
+text-align:center;
+color:#000;
+	
+	
+}
+#mainmenu ul li a:hover {
+	border-top:3px outset #999;
+}
+
+#mainmenu li {
+float: left;
+list-style-type: none;
+} 
+
