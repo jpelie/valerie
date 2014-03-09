@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5971b21-b1ae-409a-bc3f-e17550bc6083" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Users\LOUISA\project\project\Templates\OURPYTHONPRO\pages\Quisommes_nous.html" afterPath="$PROJECT_DIR$/project/Templates/pages/Quisommes_nous.html" />
-      <change type="MOVED" beforePath="C:\Users\LOUISA\project\project\Templates\OURPYTHONPRO\pages\contact.html" afterPath="$PROJECT_DIR$/project/Templates/pages/contact.html" />
-      <change type="MOVED" beforePath="C:\Users\LOUISA\project\project\Templates\OURPYTHONPRO\pages\cours.html" afterPath="$PROJECT_DIR$/project/Templates/pages/cours.html" />
-      <change type="MOVED" beforePath="C:\Users\LOUISA\project\project\Templates\OURPYTHONPRO\pages\index.html" afterPath="$PROJECT_DIR$/project/Templates/pages/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/settings.py" afterPath="$PROJECT_DIR$/project/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/principal/views.py" afterPath="$PROJECT_DIR$/principal/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,7 +82,7 @@
       <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/principal/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="27" selection-start="526" selection-end="526" vertical-scroll-proportion="0.57781756" vertical-offset="0" max-vertical-offset="559">
+            <state line="5" column="22" selection-start="189" selection-end="189" vertical-scroll-proportion="0.15205725" vertical-offset="0" max-vertical-offset="559">
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -783,7 +777,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/principal/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="27" selection-start="526" selection-end="526" vertical-scroll-proportion="0.57781756" vertical-offset="0" max-vertical-offset="559">
+        <state line="5" column="22" selection-start="189" selection-end="189" vertical-scroll-proportion="0.15205725" vertical-offset="0" max-vertical-offset="559">
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>

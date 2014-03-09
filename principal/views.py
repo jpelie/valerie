@@ -3,7 +3,7 @@ from django.http import HttpResponse
 from django.template.loader import get_template
 # Create your views here.
 def Mhome(request):
-    t = get_template('OURPYTHONPRO/pages/index.html')
+    t = get_template('/pages/index.html')
     return render(request, t )
 
 
