@@ -80,7 +80,7 @@
       <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/principal/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="46" selection-start="510" selection-end="510" vertical-scroll-proportion="0.5055762" vertical-offset="0" max-vertical-offset="538">
+            <state line="17" column="30" selection-start="506" selection-end="506" vertical-scroll-proportion="0.5055762" vertical-offset="0" max-vertical-offset="538">
               <folding />
             </state>
           </provider>
@@ -815,7 +815,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/principal/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="46" selection-start="510" selection-end="510" vertical-scroll-proportion="0.5055762" vertical-offset="0" max-vertical-offset="538">
+        <state line="17" column="30" selection-start="506" selection-end="506" vertical-scroll-proportion="0.5055762" vertical-offset="0" max-vertical-offset="538">
           <folding />
         </state>
       </provider>
