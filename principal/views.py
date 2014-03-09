@@ -1,8 +1,10 @@
 from django.shortcuts import render
 from django.http import HttpResponse
+from django.template.loader import get_template
 # Create your views here.
 def Mhome(request):
-    return render(request, '../OURPYTHONPRO/pages/index.html', )
+    t = get_template('OURPYTHONPRO/pages/index.html')
+    return render(request, t )
 
 
 def qui (request):
