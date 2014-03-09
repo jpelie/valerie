@@ -25,7 +25,7 @@ DEBUG = True
 TEMPLATE_DEBUG = True
 
 TEMPLATE_DIRS=(
-    "/project/project/Templates/",
+    "/principal/Templates/",
 
 )
 ALLOWED_HOSTS = []
@@ -96,7 +96,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 TEMPLATE_DIRS = (
     os.path.join(os.path.dirname(__file__), '../Templates').replace('\\','/'),
-    '/project/project/Templates/',
+    '/principal/Templates/',
 )
 
 # Parse database configuration from $DATABASE_URL
@@ -117,5 +117,5 @@ STATIC_ROOT = 'staticfiles'
 STATIC_URL = '/static/'
 
 STATICFILES_DIRS = (
-    "/project/static/",
+    "/principal/static/",
 )
