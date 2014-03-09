@@ -95,8 +95,9 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 TEMPLATE_DIRS = (
-    os.path.join(os.path.dirname(__file__), 'Templates').replace('\\','/'),
+    os.path.join(os.path.dirname(__file__), '../Templates').replace('\\','/'),
 )
+
 # Parse database configuration from $DATABASE_URL
 import dj_database_url
 DATABASES['default'] =  dj_database_url.config()
