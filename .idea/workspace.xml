@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c5971b21-b1ae-409a-bc3f-e17550bc6083" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/principal/views.py" afterPath="$PROJECT_DIR$/principal/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,7 +82,7 @@
       <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/principal/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="22" selection-start="415" selection-end="415" vertical-scroll-proportion="0.39534885" vertical-offset="0" max-vertical-offset="559">
+            <state line="5" column="24" selection-start="191" selection-end="191" vertical-scroll-proportion="0.09123435" vertical-offset="0" max-vertical-offset="559">
               <folding />
             </state>
           </provider>
@@ -737,7 +736,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/principal/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="22" selection-start="415" selection-end="415" vertical-scroll-proportion="0.39534885" vertical-offset="0" max-vertical-offset="559">
+        <state line="5" column="24" selection-start="191" selection-end="191" vertical-scroll-proportion="0.09123435" vertical-offset="0" max-vertical-offset="559">
           <folding />
         </state>
       </provider>
