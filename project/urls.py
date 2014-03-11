@@ -9,10 +9,10 @@ urlpatterns = patterns('',
     # Examples:
     #url(r'^$', 'project.views.home', name='home'),
     #url(r'^$', 'home'),
-    url(r'^$',Mhome),
+    #url(r'^$',Mhome),
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^qui/$',qui),
-    url(r'^contacts/$',balde),
-    url(r'^cours/$',pedro),
+    #url(r'^qui/$',qui),
+    #url(r'^contacts/$',balde),
+    #url(r'^cours/$',pedro),
 )
-urlpatterns += staticfiles_urlpatterns()
+#urlpatterns += staticfiles_urlpatterns()

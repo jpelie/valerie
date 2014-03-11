@@ -32,7 +32,7 @@ ALLOWED_HOSTS = []
 
 SET_ID=1
 
-APPEND_SLASH = True
+
 # Application definition
 
 INSTALLED_APPS = (
@@ -95,9 +95,11 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 TEMPLATE_DIRS = (
-    os.path.join(os.path.dirname(__file__), '../Templates').replace('\\','/'),
-    '/principal/Templates/',
+    #os.path.join(os.path.dirname(__file__), '../Templates').replace('\\','/'),
+    #'/principal/Templates/',
+    '/Users/louisa/projet/principal/Templates',
 )
+APPEND_SLASH = True
 
 # Parse database configuration from $DATABASE_URL
 import dj_database_url
